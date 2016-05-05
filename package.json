@@ -29,7 +29,7 @@
   "dependencies": {
     "clone": "^1.0.2",
     "defaults": "^1.0.3",
-    "ng-annotate": "^1.0.2",
+    "ng-annotate": "olov/ng-annotate#96eed5a29912f8a78dd8fb9bcdfcacc1fd2c1eae",
     "through2": "^2.0.0"
   },
   "devDependencies": {
